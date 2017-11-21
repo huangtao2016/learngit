@@ -2,3 +2,4 @@ Git is a version control system.
 Git is free software.
 Git is distributed.
 this is a test.
+Git is under the GPL.
