@@ -5,3 +5,4 @@ this is a test.
 Git is under the GPL.
 Git has a mutable index called stage.
 tracks changes.
+tracks changes of files.
