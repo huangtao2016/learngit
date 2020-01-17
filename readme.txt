@@ -7,3 +7,5 @@ Git has a mutable index called stage.
 tracks changes.
 tracks changes of files.
 local git has been pushed to github.
+
+give you a hug.
